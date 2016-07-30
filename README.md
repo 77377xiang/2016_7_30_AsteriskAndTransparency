@@ -1,0 +1,2 @@
+# 2016_7_30_AsteriskAndTransparency
+通过星及评论改变图片透明度
